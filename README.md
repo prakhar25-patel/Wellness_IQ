@@ -4,7 +4,7 @@
 
 The project demonstrates a complete ML deployment workflow — from data analysis and preprocessing to model training, evaluation, API development, and cloud deployment.
 
-## 🚀 Live Demo
+## 🚀 Live Link
 
 👉 **[Try WellnessIQ Live](https://wellness-iq-1.onrender.com)**
 

@@ -90,4 +90,4 @@ The application  deployed on Render, making the ML model available as a live web
 
 
 
-🔗 **Live Project:** https://wellness-iq-1.onrender.co
+
